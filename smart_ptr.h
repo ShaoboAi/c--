@@ -1,6 +1,3 @@
-
-
-
 template<class T>
 class smart_ptr
 {
